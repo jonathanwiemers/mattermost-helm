@@ -22,3 +22,4 @@ tags
 
 charts/mattermost-enterprise-edition/charts/*.tgz
 .cr-release-packages
+charts
